@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">
-    <img src='./No_money_modal.jpg'>
+    <img src='./No_money-modal.jpg'>
 </h1>
 
 ## About: 
