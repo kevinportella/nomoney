@@ -16,7 +16,7 @@ createServer({
       transactions: [
         {
           id: 1,
-          title: 'Swib paga os menino',
+          title: 'Job Freelancer',
           type: 'deposit',
           category: 'China de BDO',
           amount: 6000,
@@ -24,7 +24,7 @@ createServer({
         },
         {
           id: 2,
-          title: 'Pack de fotos da Tinky',
+          title: 'Market',
           type: 'withdraw',
           category: 'Fotos indecentes',
           amount: 100,
