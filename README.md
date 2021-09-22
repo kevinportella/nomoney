@@ -4,6 +4,10 @@
     <img src='./No_money.jpg'>
 </h1>
 
+<h1 align="center">
+    <img src='./No_money_modal.jpg'>
+</h1>
+
 ## About: 
 
 This is a complete web front-end financial application using important concepts and tools from the 
